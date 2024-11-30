@@ -1,12 +1,14 @@
 
-<div style="text-align: center;">
-<h2>CorTorE</h2>
-<h3>(Coding or Travel or Education)</h3>
-    <img src="logo.png" alt="CorTorE logo",height=50% width=50% style="border: 1px solid white; display: block; margin: auto;">
-</div>
-<br>
+<div align="center">
+    
+## CorTorE
+### (Coding or Travel or Education)
+    
+<img src="https://github.com/CorTorE/.github/blob/main/profile/logo.png" alt="CorTorE logo" height=50% width=50% style="border: 1px solid white; display: block; margin: auto;">
 
----
+</div>
+
+-----
 
 ### ✨ **소개**
 
