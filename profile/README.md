@@ -4,7 +4,7 @@
 ## CorTorE
 ### (Coding or Travel or Education)
     
-<img src="https://github.com/CorTorE/.github/blob/main/profile/logo.png" alt="CorTorE logo" height=50% width=50% style="border: 1px solid white; display: block; margin: auto;">
+<img src="./logo.png" alt="CorTorE logo" height=50% width=50% style="border: 1px solid white; display: block; margin: auto;">
 
 </div>
 
